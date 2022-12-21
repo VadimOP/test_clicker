@@ -1,0 +1,56 @@
+#=======================================================================# 
+# VisualStudio/MonoDevelop/Consulo generated solution and project files 
+#=======================================================================#
+ExportedObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.pdb.meta
+*.opendb
+#=======================================================================#
+# Visual Studio cache directory	 										
+#=======================================================================#
+.vs/
+.vscode
+#=======================================================================#
+# Unity generated 														
+#=======================================================================#
+CriminalStories.Unity/[Ll]ibrary/
+CriminalStories.Unity/[Tt]emp/
+CriminalStories.Unity/[Oo]bj/
+CriminalStories.Unity/[Bb]uild/
+CriminalStories.Unity/[Bb]uilds/
+CriminalStories.Unity/[Aa]ssetBundles/
+CriminalStories.Unity/[Ll]ogs/
+CriminalStories.Unity/[Uu]serSettings/
+CriminalStories.Unity/Assets/AssetStoreTools*
+CriminalStories.Unity/_EditorCache
+CriminalStories.Unity/CaсheServer
+CriminalStories.Unity/Assets/__Debug_ignore/
+CriminalStories.Unity/Assets/__Debug_ignore.meta
+#=======================================================================#
+# OS generated 															
+#=======================================================================#
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+#=======================================================================#
+# JetBrains Rider
+#=======================================================================#
+CriminalStories.Unity/.idea/*
+CriminalStories.Unity/Assets/Plugins/Editor/JetBrains
+CriminalStories.Unity/Assets/Plugins/Editor/JetBrains/*
+CriminalStories.Unity/KeystoreCS
