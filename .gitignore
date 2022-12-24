@@ -24,19 +24,13 @@ ExportedObj/
 #=======================================================================#
 # Unity generated 														
 #=======================================================================#
-CriminalStories.Unity/[Ll]ibrary/
-CriminalStories.Unity/[Tt]emp/
-CriminalStories.Unity/[Oo]bj/
-CriminalStories.Unity/[Bb]uild/
-CriminalStories.Unity/[Bb]uilds/
-CriminalStories.Unity/[Aa]ssetBundles/
-CriminalStories.Unity/[Ll]ogs/
-CriminalStories.Unity/[Uu]serSettings/
-CriminalStories.Unity/Assets/AssetStoreTools*
-CriminalStories.Unity/_EditorCache
-CriminalStories.Unity/CaсheServer
-CriminalStories.Unity/Assets/__Debug_ignore/
-CriminalStories.Unity/Assets/__Debug_ignore.meta
+test_clicker.Unity/[Ll]ibrary/
+test_clicker.Unity/[Tt]emp/
+test_clicker.Unity/[Oo]bj/
+test_clicker.Unity/[Ll]ogs/
+test_clicker.Unity/[Uu]serSettings/
+test_clicker/_EditorCache
+test_clicker.Unity/CaсheServer
 #=======================================================================#
 # OS generated 															
 #=======================================================================#
@@ -47,10 +41,3 @@ CriminalStories.Unity/Assets/__Debug_ignore.meta
 .Trashes
 ehthumbs.db
 Thumbs.db
-#=======================================================================#
-# JetBrains Rider
-#=======================================================================#
-CriminalStories.Unity/.idea/*
-CriminalStories.Unity/Assets/Plugins/Editor/JetBrains
-CriminalStories.Unity/Assets/Plugins/Editor/JetBrains/*
-CriminalStories.Unity/KeystoreCS
